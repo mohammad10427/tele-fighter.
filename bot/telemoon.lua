@@ -235,10 +235,10 @@ function create_config( )
     },
     sudo_users = {166736252,212103986},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[TeleMoon V.4
-An advanced administration bot based on TG-CLI written in Lua Open source!
+    about_text = [[telefighter
 
-https://github.com/mohammad10427/tele-fighter
+
+
 
 
 Admins:
