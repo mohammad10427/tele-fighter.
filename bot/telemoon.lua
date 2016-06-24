@@ -255,7 +255,7 @@ dilan
 
 
 Our channel
-@telefighter
+@silverch
 ]],
     help_text_realm = [[
 Realm Commands:
